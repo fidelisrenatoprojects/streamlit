@@ -64,5 +64,5 @@ typing_extensions
 tzdata                    
 urllib3                   
 watchdog                 
-Werkzeug                  3.1.3
-wikipedia                 1.4.0
+Werkzeug                 
+wikipedia                 
